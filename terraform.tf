@@ -1,7 +1,7 @@
 terraform {
   cloud {
     workspaces {
-      name = "learn-terraform-opa"
+      name = "coffee-as-code-tf-opa"
     }
   }
 
